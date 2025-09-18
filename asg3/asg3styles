@@ -1,1 +1,7 @@
+h1, h2 {
+		font-family: "Rufina", serif;
+}
 
+p, li {
+		font-family: "Schibsted Grotesk", sans-serif;
+}
