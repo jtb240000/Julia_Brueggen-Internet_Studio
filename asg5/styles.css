@@ -25,3 +25,6 @@ form{
 	padding: 10px;
 	font-family: "Epunda Slab", sans-serif;
 }
+td {
+	max-width: 350px;
+}
