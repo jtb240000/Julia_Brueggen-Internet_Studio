@@ -20,5 +20,6 @@ body {
 form{
 	background-color: rgb(225, 200, 50);
 	color: rgb(30, 50, 5);
-	margin: 1em, 100px;
+	margin: 0px 100px;
+	max-width: 500px;
 }
