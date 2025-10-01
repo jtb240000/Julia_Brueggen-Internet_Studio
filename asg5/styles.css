@@ -22,4 +22,6 @@ form{
 	color: rgb(30, 50, 5);
 	margin: 0px 100px;
 	max-width: 500px;
+	padding: 10px;
+	font-family: "Epunda Slab", sans-serif;
 }
