@@ -6,6 +6,8 @@
 h1 {
 	font-family: "Epunda Slab", serif;
 	font-weight: 700;
+	font-size: 2em;
+	background-color: rgb(10, 100, 60);
 }
 h2 {
 	font-family: "Epunda Slab", serif;
