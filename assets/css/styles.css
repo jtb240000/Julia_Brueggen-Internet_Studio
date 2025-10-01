@@ -22,3 +22,9 @@ body {
 	background-color: rgb(5, 50, 30);
 	color: white;
 }
+a {
+	color: rgb(225, 240, 255);
+}
+a:visited {
+	color: rgb(225, 220, 240);
+}
