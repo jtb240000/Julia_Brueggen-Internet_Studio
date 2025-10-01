@@ -14,3 +14,7 @@ h2 {
 li, p {
 	font-family: "Epunda Sans", sans-serif;
 }
+body {
+	background-color: "dark green";
+	color: white;
+}
