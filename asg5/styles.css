@@ -2,29 +2,23 @@ h1 {
 	font-family: "Epunda Slab", serif;
 	font-weight: 700;
 	font-size: 2em;
-	background-color: rgb(60, 100, 10);
+	background-color: rgb(100, 60, 10);
 	padding: 10px;
 }
 h2 {
 	font-family: "Epunda Slab", serif;
 	font-weight: 300;
-	background-color: rgb(36, 60, 6);
+	background-color: rgb(60, 36, 6);
 }
 li, p {
 	font-family: "Epunda Slab", sans-serif;
 }
 body {
-	background-color: rgb(30, 50, 5);
+	background-color: rgb(50, 35, 5);
 	color: white;
 }
-a {
-	color: rgb(250, 220, 200);
-}
-a:visited {
-	color: rgb(200, 180, 200);
-}
 form{
-	background-color: rgb(200, 200, 50);
+	background-color: rgb(225, 200, 50);
 	color: rgb(30, 50, 5);
 	margin: 1em, 100px;
 }
