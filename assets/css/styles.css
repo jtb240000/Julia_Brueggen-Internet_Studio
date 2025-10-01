@@ -13,6 +13,7 @@ h1 {
 h2 {
 	font-family: "Epunda Slab", serif;
 	font-weight: 300;
+	background-color: rgb(6, 60, 36);
 }
 li, p {
 	font-family: "Epunda Sans", sans-serif;
