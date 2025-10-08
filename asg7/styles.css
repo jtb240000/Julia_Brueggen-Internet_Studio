@@ -15,10 +15,55 @@
   src: url('fonts/almarai-v19-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-h1, h2, h3 {
-  font-family: 'Abril Fatface';
+h1 {
+	font-family: 'Abril Fatface', "Tangerine", "Epunda Slab", serif;
+	background-color: rgb(55, 80, 50);
+	padding: 10px;
+	font-size: 3em;
 }
-
-p, ul {
-  font-family: "Almarai";
+h2 {
+	font-family: 'Abril Fatface', "Epunda Slab", serif;
+	background-color: rgb(55, 80, 50);
+	clear: left;
+	font-size: 2em;
+}
+h3 {
+	font-family: 'Abril Fatface', serif;
+	clear: left;
+	font-size: 1.5em;
+}
+li, p, ul {
+	font-family: Almarai, "Inter", sans-serif;
+	width: 800px;
+	float: left, top;
+}
+body {
+	color: white;
+	alpha: .9;
+	background-image: url(./images/bg-pattern.webp);
+  	background-repeat: repeat; 
+  	background-size: auto;
+}
+form{
+	background-color: rgb(225, 200, 50);
+	color: rgb(30, 50, 5);
+	margin: 0px 100px;
+	max-width: 500px;
+	padding: 10px;
+	font-family: "Epunda Slab", sans-serif;
+}
+td {
+	max-width: 350px;
+	padding: 1em 50px;
+}
+figure {
+	max-width: 250px;
+	float: right;
+	clear: right;
+	display: inline-block;
+}
+section {
+	border: solid, 15px, rgb(200, 150, 100);
+	padding: 10px;
+	background-color: rgb(15, 40, 10);
 }
