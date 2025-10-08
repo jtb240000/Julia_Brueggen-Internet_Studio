@@ -13,6 +13,7 @@ h3 {
 li, p {
 	font-family: "Inter", sans-serif;
 	width: 800px;
+	float: left;
 }
 body {
 	background-color: rgb(15, 40, 10);
@@ -30,4 +31,7 @@ form{
 td {
 	max-width: 350px;
 	padding: 1em 50px;
+}
+figure {
+
 }
