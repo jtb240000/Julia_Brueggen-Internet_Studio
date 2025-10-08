@@ -12,6 +12,7 @@ h3 {
 }
 li, p {
 	font-family: "Inter", sans-serif;
+	width: 500px;
 }
 body {
 	background-color: rgb(15, 40, 10);
