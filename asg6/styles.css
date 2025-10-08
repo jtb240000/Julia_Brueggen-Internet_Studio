@@ -1,25 +1,31 @@
-/* 
-      .--..--..--..--..--..--.
-    .' \  (`._   (_)     _   \
-  .'    |  '._)         (_)  |
-  \ _.')\      .----..---.   /
-  |(_.'  |    /    .-\-.  \  |
-  \     0|    |   ( O| O) | o|
-   |  _  |  .--.____.'._.-.  |
-   \ (_) | o         -` .-`  |
-    |    \   |`-._ _ _ _ _\ /
-    \    |   |  `. |_||_|   |
-    | o  |    \_      \     |     -.   .-.
-    |.-.  \     `--..-'   O |     `.`-' .'
-  _.'  .' |     `-.-'      /-.__   ' .-'
-.' `-.` '.|='=.='=.='=.='=|._/_ `-'.'
-`-._  `.  |________/\_____|    `-.'
-   .'   ).| '=' '='\/ '=' |
-   `._.`  '---------------'
-           //___\   //___\
-             ||       ||
-             ||_.-.   ||_.-.
-            (_.--__) (_.--__)
-       
-
- Insert all your glorious CSS styles below! */
+h1 {
+	font-family: "Tangerine", "Epunda Slab", serif;
+	font-weight: 700;
+	font-size: 5em;
+	background-color: rgb(100, 60, 10);
+	padding: 10px;
+}
+h2 {
+	font-family: "Epunda Slab", serif;
+	font-weight: 300;
+	background-color: rgb(60, 36, 6);
+}
+li, p {
+	font-family: "Epunda Slab", sans-serif;
+}
+body {
+	background-color: rgb(50, 35, 5);
+	color: white;
+}
+form{
+	background-color: rgb(225, 200, 50);
+	color: rgb(30, 50, 5);
+	margin: 0px 100px;
+	max-width: 500px;
+	padding: 10px;
+	font-family: "Epunda Slab", sans-serif;
+}
+td {
+	max-width: 350px;
+	padding: 1em 50px;
+}
