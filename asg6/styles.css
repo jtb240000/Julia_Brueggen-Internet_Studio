@@ -38,5 +38,7 @@ td {
 	padding: 1em 50px;
 }
 figure {
-
+	max-width: 250px;
+	float: right;
+	clear: right;
 }
