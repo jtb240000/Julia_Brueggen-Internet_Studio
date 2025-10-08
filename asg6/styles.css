@@ -1,20 +1,21 @@
 h1 {
-	font-family: "Tangerine", "Epunda Slab", serif;
+	font-family: "Pangolin", "Tangerine", "Epunda Slab", serif;
 	font-weight: 700;
 	font-size: 5em;
 	background-color: rgb(100, 60, 10);
 	padding: 10px;
 }
 h2 {
-	font-family: "Epunda Slab", serif;
+	font-family: "Pangolin", "Epunda Slab", serif;
 	font-weight: 300;
 	background-color: rgb(60, 36, 6);
 }
 h3 {
-
+	font-family: "Pangolin";
 }
 li, p {
-	font-family: "Epunda Slab", sans-serif;
+	font-family: "Inter", sans-serif;
+	font-weight: 
 }
 body {
 	background-color: rgb(50, 35, 5);
