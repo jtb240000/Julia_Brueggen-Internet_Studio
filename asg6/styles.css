@@ -14,8 +14,9 @@ li, p {
 	font-family: "Inter", sans-serif;
 }
 body {
-	background-color: rgb(50, 35, 5);
+	background-color: rgb(15, 40, 10);
 	color: white;
+	alpha: .9;
 }
 form{
 	background-color: rgb(225, 200, 50);
