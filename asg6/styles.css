@@ -1,13 +1,10 @@
 h1 {
 	font-family: "Pangolin", "Tangerine", "Epunda Slab", serif;
-	font-weight: 700;
-	font-size: 5em;
 	background-color: rgb(100, 60, 10);
 	padding: 10px;
 }
 h2 {
 	font-family: "Pangolin", "Epunda Slab", serif;
-	font-weight: 300;
 	background-color: rgb(60, 36, 6);
 }
 h3 {
