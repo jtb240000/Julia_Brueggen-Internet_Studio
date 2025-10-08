@@ -21,7 +21,6 @@ li, p {
 	float: left, top;
 }
 body {
-	background-color: rgb(15, 40, 10);
 	color: white;
 	alpha: .9;
 }
@@ -46,4 +45,5 @@ figure {
 section {
 	border: solid, 15px, rgb(200, 150, 100);
 	padding: 10px;
+	background-color: rgb(15, 40, 10);
 }
