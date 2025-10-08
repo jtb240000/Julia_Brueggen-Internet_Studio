@@ -6,6 +6,7 @@ h1 {
 h2 {
 	font-family: "Pangolin", "Epunda Slab", serif;
 	background-color: rgb(55, 80, 50);
+	clear: left;
 }
 h3 {
 	font-family: "Pangolin";
