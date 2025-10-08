@@ -9,6 +9,7 @@ h2 {
 }
 h3 {
 	font-family: "Pangolin";
+	clear: left;
 }
 li, p {
 	font-family: "Inter", sans-serif;
