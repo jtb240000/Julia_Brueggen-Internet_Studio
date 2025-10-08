@@ -43,3 +43,7 @@ figure {
 	clear: right;
 	display: inline-block;
 }
+section {
+	border: solid, 15px, rgb(225, 200, 50);
+	padding: 10px;
+}
