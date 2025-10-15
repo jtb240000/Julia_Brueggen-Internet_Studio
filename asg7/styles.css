@@ -15,14 +15,21 @@
   src: url('fonts/almarai-v19-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Hepta Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/hepta-slab-v25-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 h1 {
-	font-family: 'Abril Fatface', "Tangerine", "Epunda Slab", serif;
+	font-family: 'Hepta Slab', 'Abril Fatface', "Tangerine", "Epunda Slab", serif;
 	background-color: rgb(55, 60, 80);
 	padding: 10px;
 	font-size: 3em;
 }
 h2 {
-	font-family: 'Abril Fatface', "Epunda Slab", serif;
+	font-family: 'Hepta slab', 'Abril Fatface', "Epunda Slab", serif;
 	background-color: rgb(55, 60, 80);
 	font-size: 2em;
 }
