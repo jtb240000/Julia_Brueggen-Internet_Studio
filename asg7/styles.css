@@ -17,13 +17,13 @@
 
 h1 {
 	font-family: 'Abril Fatface', "Tangerine", "Epunda Slab", serif;
-	background-color: rgb(55, 80, 50);
+	background-color: rgb(55, 50, 80);
 	padding: 10px;
 	font-size: 3em;
 }
 h2 {
 	font-family: 'Abril Fatface', "Epunda Slab", serif;
-	background-color: rgb(55, 80, 50);
+	background-color: rgb(55, 50, 80);
 	clear: left;
 	font-size: 2em;
 }
@@ -65,7 +65,8 @@ figure {
 section {
 	border: solid, 15px, rgb(200, 150, 100);
 	padding: 10px;
-	background-color: rgb(15, 40, 10);
+	background-color: rgb(15, 10, 80);
+	width: 400px;
 }
 aside {
 	float: right;
