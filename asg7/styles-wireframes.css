@@ -101,4 +101,7 @@ ul {
 p {
 	border-bottom: dotted, 2px, rgb(100, 120, 160);
 }
-
+figure {
+	width: 80%;
+	height: auto;
+}
