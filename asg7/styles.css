@@ -24,12 +24,10 @@ h1 {
 h2 {
 	font-family: 'Abril Fatface', "Epunda Slab", serif;
 	background-color: rgb(55, 50, 80);
-	clear: left;
 	font-size: 2em;
 }
 h3 {
 	font-family: 'Abril Fatface', serif;
-	clear: left;
 	font-size: 1.5em;
 }
 li, p, ul {
@@ -59,7 +57,6 @@ td {
 figure {
 	max-width: 250px;
 	float: right;
-	clear: right;
 	display: inline-block;
 }
 section {
