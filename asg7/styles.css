@@ -66,6 +66,7 @@ aside {
 	border: solid, 15px, rgb(200, 150, 100);
 	padding: 10px;
 	background-color: rgb(15, 10, 80);
+	border-radius: 8px;
 }
 main {
 	float: left;
@@ -74,4 +75,5 @@ main {
 	border: solid, 15px, rgb(200, 150, 100);
 	padding: 10px;
 	background-color: rgb(15, 10, 80);
+	border-radius: 8px
 }
