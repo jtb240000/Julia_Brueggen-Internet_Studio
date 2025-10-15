@@ -71,3 +71,6 @@ section {
 aside {
 	float: right;
 }
+main {
+	float: left;
+}
