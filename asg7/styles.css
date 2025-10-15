@@ -34,7 +34,7 @@ h3 {
 }
 li, p, ul {
 	font-family: Almarai, "Inter", sans-serif;
-	width: 800px;
+	max-width: 800px;
 	float: left, top;
 }
 body {
