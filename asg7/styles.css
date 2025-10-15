@@ -77,3 +77,6 @@ main {
 	background-color: rgb(15, 10, 80);
 	border-radius: 8px
 }
+a {
+	color: rgb(100, 100, 255);
+}
