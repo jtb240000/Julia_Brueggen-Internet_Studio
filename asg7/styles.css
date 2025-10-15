@@ -58,17 +58,20 @@ figure {
 	display: inline-block;
 }
 section {
-	border: solid, 15px, rgb(200, 150, 100);
-	padding: 10px;
-	background-color: rgb(15, 10, 80);
 }
 aside {
 	float: right;
 	max-width: 200px;
 	margin: 5px;
+	border: solid, 15px, rgb(200, 150, 100);
+	padding: 10px;
+	background-color: rgb(15, 10, 80);
 }
 main {
 	float: left;
 	max-width: 250px;
 	margin: 5px;
+	border: solid, 15px, rgb(200, 150, 100);
+	padding: 10px;
+	background-color: rgb(15, 10, 80);
 }
