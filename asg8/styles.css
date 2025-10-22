@@ -64,15 +64,6 @@ aside {
 	background-color: rgb(15, 10, 80);
 	border-radius: 8px;
 }
-main {
-	float: left;
-	max-width: 500px;
-	margin: 10px;
-	border: solid, 15px, rgb(200, 150, 100);
-	padding: 10px;
-	background-color: rgb(15, 10, 80);
-	border-radius: 8px
-}
 a {
 	color: rgb(100, 100, 255);
 	background-color: rgba(0, 0, 0, 0.5);
@@ -92,4 +83,8 @@ p {
 figure {
 	width: 80%;
 	height: auto;
+}
+div {
+	background-color: rgb(200, 150, 100);
+	margin: 0, 20px, 10px, 20px;
 }
