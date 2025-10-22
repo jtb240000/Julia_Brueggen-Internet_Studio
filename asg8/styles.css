@@ -77,7 +77,6 @@ ul {
 	padding-right: 5px;
 	padding-bottom: 8px;
 	border: dotted, 5px, black;
-	font-size: 1.5em;
 }
 p {
 	border-bottom: dotted, 2px, rgb(100, 120, 160);
@@ -89,4 +88,7 @@ figure {
 div {
 	background-color: rgb(200, 150, 100);
 	margin: 0px, 20px, 0px, 20px;
+}
+li {
+	font-size: 1.5em;
 }
