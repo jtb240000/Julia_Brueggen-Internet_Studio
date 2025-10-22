@@ -134,3 +134,7 @@ li {
 	padding: 10px;
 	margin: 10px;
 }
+strong {
+	color: rgba(255, 255, 255, 1);
+	font-size: 1.2em;
+}
