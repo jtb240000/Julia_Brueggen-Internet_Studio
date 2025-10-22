@@ -57,13 +57,14 @@ h1 {
 	border: dotted, 5px, black;
 }
 h2 {
-	font-family: 'Hepta slab', "Epunda Slab", serif;
+	font-family: 'Roboto Serif', 'Hepta slab', "Epunda Slab", serif;
 	background-color: rgb(55, 110, 80);
 	font-size: 2em;
 	padding: 5px;
 	border: dotted, 5px, black;
 }
 h3 {
+	font-family: 'Roboto Serif';
 	font-size: 1.5em;
 }
 li, p, ul {
