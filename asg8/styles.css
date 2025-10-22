@@ -13,6 +13,9 @@
   font-weight: 700;
   src: url('fonts/hepta-slab-v25-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+h1, h2, h3 {
+	margin: 10px;
+}
 h1 {
 	font-family: 'Hepta Slab', "Tangerine", "Epunda Slab", serif;
 	background-color: rgb(55, 60, 80);
@@ -34,6 +37,7 @@ li, p, ul {
 	font-family: Almarai, "Inter", sans-serif;
 	max-width: 800px;
 	float: left, top;
+	margin: 5px;
 }
 body {
 	color: white;
