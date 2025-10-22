@@ -92,4 +92,6 @@ div {
 }
 li {
 	font-size: 1.5em;
+	background-color: rgba(0, 0, 0, .1);
+	border-radius: 5px;
 }
