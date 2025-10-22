@@ -80,6 +80,7 @@ ul {
 }
 p {
 	border-bottom: dotted, 2px, rgb(100, 120, 160);
+	color: rgba(255, 255, 255, 0.7);
 }
 figure {
 	width: 80%;
