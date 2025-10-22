@@ -68,7 +68,7 @@ h3 {
 	font-size: 1.5em;
 }
 li, p, ul {
-	font-family: Almarai, "Inter", sans-serif;
+	font-family: 'Roboto', Almarai, "Inter", sans-serif;
 	max-width: 800px;
 	float: left, top;
 	margin: 5px;
@@ -127,4 +127,9 @@ li {
 	font-size: 1.5em;
 	background-color: rgba(0, 0, 0, .1);
 	border-radius: 5px;
+}
+h3 p {
+	background-color: rgb(100,75,60);
+	padding: 10px;
+	margin: 10px;
 }
