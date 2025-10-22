@@ -1,13 +1,5 @@
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Abril Fatface';
-  font-style: normal;
-  font-weight: 400;
-  src: url('fonts/abril-fatface-v25-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Almarai';
   font-style: normal;
   font-weight: 400;
@@ -22,21 +14,20 @@
   src: url('fonts/hepta-slab-v25-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 h1 {
-	font-family: 'Hepta Slab', 'Abril Fatface', "Tangerine", "Epunda Slab", serif;
+	font-family: 'Hepta Slab', "Tangerine", "Epunda Slab", serif;
 	background-color: rgb(55, 60, 80);
 	padding: 10px;
 	font-size: 3em;
 	border: solid, 5px, black;
 }
 h2 {
-	font-family: 'Hepta slab', 'Abril Fatface', "Epunda Slab", serif;
+	font-family: 'Hepta slab', "Epunda Slab", serif;
 	background-color: rgb(55, 110, 80);
 	font-size: 2em;
 	padding: 5px;
 	border: solid, 5px, black;
 }
 h3 {
-	font-family: 'Abril Fatface', serif;
 	font-size: 1.5em;
 }
 li, p, ul {
@@ -63,8 +54,7 @@ td {
 	max-width: 350px;
 	padding: 1em 50px;
 }
-section {
-}
+
 aside {
 	float: right;
 	max-width: 200px;
