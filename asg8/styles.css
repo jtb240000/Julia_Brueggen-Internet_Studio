@@ -42,9 +42,6 @@ li, p, ul {
 body {
 	color: white;
 	alpha: .9;
-	margin-left: 50px;
-	margin-right: 50px;
-	background-image: url(./asg7-img/oriental-tiles.png);
 }
 form {
 	background-color: rgb(225, 200, 50);
