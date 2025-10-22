@@ -122,6 +122,7 @@ figure {
 }
 div {
 	background-color: rgb(200, 150, 100);
+	padding: 10px;
 }
 li {
 	font-size: 1.5em;
