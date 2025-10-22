@@ -21,14 +21,14 @@ h1 {
 	background-color: rgb(55, 60, 80);
 	padding: 10px;
 	font-size: 3em;
-	border: solid, 5px, black;
+	border: dotted, 5px, black;
 }
 h2 {
 	font-family: 'Hepta slab', "Epunda Slab", serif;
 	background-color: rgb(55, 110, 80);
 	font-size: 2em;
 	padding: 5px;
-	border: solid, 5px, black;
+	border: dotted, 5px, black;
 }
 h3 {
 	font-size: 1.5em;
@@ -76,7 +76,7 @@ ul {
 	padding-top: 10px;
 	padding-right: 5px;
 	padding-bottom: 8px;
-	border: solid, 5px, black;
+	border: dotted, 5px, black;
 }
 p {
 	border-bottom: dotted, 2px, rgb(100, 120, 160);
@@ -87,5 +87,5 @@ figure {
 }
 div {
 	background-color: rgb(200, 150, 100);
-	margin: 0, 20px, 10px, 20px;
+	margin: 0px, 20px, 0px, 20px;
 }
