@@ -86,9 +86,3 @@ form {
 	border-radius: 5px;
 	padding: 10px;
 }
-nav a:hover {
-	background-color: red;
-  -webkit-transform: scale(1.5);
-  -ms-transform: scale(1.5);
-  transform: scale(1.5);
-}
