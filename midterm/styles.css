@@ -16,3 +16,8 @@ a {
 a:visited {
 	color: rgb(200, 180, 200);
 }
+main {
+	height: 100%;
+	background-color: brown;
+	color: ivory;
+}
