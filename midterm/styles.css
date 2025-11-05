@@ -53,6 +53,10 @@ a {
 a:visited {
 	color: rgb(200, 180, 200);
 }
+a:hover {
+	background-color: rgb(100, 0, 0);
+	border: 4px solid darkred;
+}
 main {
 	height: 100%;
 	background-color: brown;
