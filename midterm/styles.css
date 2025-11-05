@@ -83,4 +83,6 @@ form {
 	width: 400px;
 	background-color: darkred;
 	border-radius: 5px;
+	padding: 10px;
+	line-height: 1.5;
 }
