@@ -6,6 +6,30 @@
   font-weight: 400;
   src: url('./fonts/homemade-apple-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+/* bitter-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/bitter-v40-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* bitter-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./fonts/bitter-v40-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* bitter-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./fonts/bitter-v40-latin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 body {
 	background-color: black;
 	padding: 0;
@@ -45,6 +69,11 @@ section {
 	max-width: 400px;
 	display: inline-block;
 }
+nav, main {
+	font-family: 'Bitter', serif;
+	font-weight: 500;
+}
 h1 {
 	font-family: 'Homemade Apple', serif;
+	font-weight: 400;
 }
