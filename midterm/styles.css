@@ -79,3 +79,8 @@ h1 {
 	font-family: 'Homemade Apple', serif;
 	font-weight: 400;
 }
+form {
+	width: 400px;
+	background-color: darkred;
+	border-radius: 5px;
+}
