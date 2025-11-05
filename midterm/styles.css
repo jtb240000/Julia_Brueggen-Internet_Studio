@@ -66,8 +66,10 @@ footer {
 	background-color: rgb(200, 220, 250);
 }
 section {
-	max-width: 400px;
+	max-width: 300px;
 	display: inline-block;
+	float: top;
+	padding: 10px;
 }
 nav, main {
 	font-family: 'Bitter', serif;
