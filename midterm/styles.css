@@ -35,4 +35,5 @@ footer {
 }
 section {
 	max-width: 400px;
+	display: inline-block;
 }
