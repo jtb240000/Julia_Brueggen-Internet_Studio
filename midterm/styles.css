@@ -5,8 +5,8 @@ nav ul {
   flex-direction: row;
   gap: 20px;
 }
-nav ul li {
-  background-color: dodgerblue;
+nav ul li, a {
+  background-color: darkred;
   padding: 5px;
   border-radius: 5px;
 }
