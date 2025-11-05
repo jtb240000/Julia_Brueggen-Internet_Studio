@@ -10,3 +10,9 @@ nav ul li, a {
   padding: 5px;
   border-radius: 5px;
 }
+a {
+	color: rgb(200, 220, 250);
+}
+a:visited {
+	color: rgb(200, 180, 200);
+}
