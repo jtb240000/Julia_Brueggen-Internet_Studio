@@ -25,3 +25,6 @@ main {
 footer {
 	float: bottom, left;
 }
+chunk {
+	width: 400px;
+}
