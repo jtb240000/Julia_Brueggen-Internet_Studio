@@ -1,13 +1,11 @@
 img {
-      max-width: 400px;
+      max-width: 300px;
       max-height: 400px;
 }
 .item p {
-      max-width: 400px;
+      max-width: 300px;
 }
 .gallery {
       display: flex;
-}
-.item {
-      display: inline-flex;
+      flex-wrap: wrap;
 }
