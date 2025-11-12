@@ -60,3 +60,6 @@ h3 {
 p {
   font-family: Rosario, sans-serif;
 }
+body {
+  background-image: url(./images/moulin.webp);
+}
