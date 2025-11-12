@@ -32,8 +32,8 @@ img {
       background-color: rgb(200, 130, 65);
 }
 h1, h2, h3 {
-      font-face: 'Comic Relief', sans-serif;
+      font-family: 'Comic Relief', sans-serif;
 }
 p {
-      font-face: 'Rethink Sans', sans-serif;
+      font-family: 'Rethink Sans', sans-serif;
 }
