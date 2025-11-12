@@ -3,7 +3,7 @@
       grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
       gap: 10px 10px;
 }
-img, .item p {
+img, .item p, h3 {
       max-width: 300px;
 }
 .item {
