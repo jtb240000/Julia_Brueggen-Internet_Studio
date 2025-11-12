@@ -15,27 +15,31 @@
   src: url('./fonts/rethink-sans-v7-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 img {
-      max-width: 300px;
-      max-height: 400px;
+  max-width: 300px;
+  max-height: 400px;
 }
 .item p {
-      max-width: 300px;
+  max-width: 300px;
 }
 .gallery {
-      display: flex;
-      flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 .item {
-      padding: 10px;
-      margin: 10px;
-      border: dotted 10px rgb(150, 100, 45);
-      background-color: rgb(200, 130, 70);
+  padding: 10px;
+  margin: 10px;
+  border: dotted 10px rgb(150, 100, 45);
+  background-color: rgb(200, 130, 80);
 }
 h1, h2, h3 {
-      font-family: 'Comic Relief', sans-serif;
+  font-family: 'Comic Relief', sans-serif;
+  padding: 10px;    
 }
 p {
-      font-family: 'Rethink Sans', sans-serif;
+  font-family: 'Rethink Sans', sans-serif;
+}
+h1 {
+  background-color: rgb(200, 200, 250);
 }
 
 /* fluid type scale */
