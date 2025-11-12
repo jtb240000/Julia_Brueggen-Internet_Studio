@@ -15,6 +15,7 @@
   src: url('./fonts/rethink-sans-v7-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 body {
+  background-image: url(./images/cork-board.webp);
 }
 img {
   max-width: 300px;
