@@ -30,6 +30,7 @@ img {
   margin: 10px;
   border: dotted 10px rgb(150, 100, 45);
   background-color: rgb(200, 130, 80);
+  border-radius: 5px;
 }
 h1, h2, h3 {
   font-family: 'Comic Relief', sans-serif;
