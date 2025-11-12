@@ -14,6 +14,8 @@
   font-weight: 400;
   src: url('./fonts/rethink-sans-v7-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+body {
+}
 img {
   max-width: 300px;
   max-height: 400px;
@@ -46,6 +48,8 @@ h1 {
 .body {
   margin: 10px 50px 20px 50px;
   border: solid 5px rgb(200, 200, 225);
+  background-color: rgb(250, 250, 225);
+  color: rgb(5, 5, 0);
 }
 
 
