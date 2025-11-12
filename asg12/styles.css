@@ -12,14 +12,14 @@ img, .item p, h3 {
       padding: 10px;
       margin: 10px;
       border-radius: 10px;
-      border-left: dashed 10px rgb(50, 50, 100);
-      border-right: dashed 10px rgb(50, 50, 100);
+      border-left: dashed 10px rgb(45, 50, 100);
+      border-right: dashed 10px rgb(45, 50, 100);
 }
 img, h3, .item p {
-      background-color: rgb(50, 50, 100);
+      background-color: rgb(45, 50, 100);
       margin: 10px;
       padding: 10px;
-      border: 10px solid rgb(50, 50, 100);
+      border: 10px solid rgb(45, 50, 100);
       border-radius: 10px;
 }
 .body {
