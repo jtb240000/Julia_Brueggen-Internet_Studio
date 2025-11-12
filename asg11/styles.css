@@ -41,6 +41,11 @@ p {
 h1 {
   background-color: rgb(200, 200, 250);
 }
+.body {
+  margin: 10px 50px 20px 50px;
+  border: solid 5px rgb(200, 200, 225);
+}
+
 
 /* fluid type scale */
 
