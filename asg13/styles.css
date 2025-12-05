@@ -26,4 +26,6 @@ img {
 }
 h1, h2, h3, p {
 	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
 }
