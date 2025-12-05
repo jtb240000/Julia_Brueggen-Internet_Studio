@@ -3,13 +3,20 @@
 	grid-template-columns: 1fr 1fr 1fr;
 	gap: 10px 10px;
 	align-content: end;
+	background-color: rgb(250, 250, 250);
+	color: black
 }
 .job {
 	max-width: 300px;
 	padding: 10px;
 	margin: 10px;
+	background-color: white;
 }
 img {
 	max-width: 200px;
 	max-height: 200px;
+}
+.main {
+	background-color: deepskyblue;
+	color: white
 }
