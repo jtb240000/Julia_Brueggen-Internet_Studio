@@ -4,7 +4,9 @@
 	gap: 10px 10px;
 	align-content: end;
 	background-color: rgb(250, 250, 250);
-	color: black
+	color: black;
+	padding: 10px;
+	margin: 10px;
 }
 .job {
 	max-width: 300px;
@@ -18,5 +20,7 @@ img {
 }
 .main {
 	background-color: deepskyblue;
-	color: white
+	color: black;
+	padding: 10px;
+	margin: 10px;
 }
