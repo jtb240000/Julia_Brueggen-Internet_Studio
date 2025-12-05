@@ -1,3 +1,19 @@
+/* cal-sans-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cal Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/cal-sans-v2-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* average-sans-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Average Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/average-sans-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 .job-listings {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -32,4 +48,10 @@ h1, h2, h3, p {
 }
 body {
 	background-image: url(./images/inflicted.png);
+}
+h1, h2 {
+	font-family: 'Cal Sans', sans-serif;
+}
+h3, p {
+	font-family: 'Average Sans', sans-serif;
 }
