@@ -2,7 +2,7 @@
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	gap: 10px 10px;
-	align-content: end;
+	align-items: end;
 	background-color: rgb(250, 250, 250);
 	color: black;
 	padding: 10px;
@@ -13,6 +13,8 @@
 	padding: 10px;
 	margin: 10px;
 	background-color: white;
+	border: 10px black solid;
+	border-radius: 10px;
 }
 img {
 	max-width: 200px;
